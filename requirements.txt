@@ -1,6 +1,7 @@
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-streamlit
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.5
+matplotlib>=3.8
+seaborn>=0.13
+streamlit>=1.50
+pytest>=8.0
